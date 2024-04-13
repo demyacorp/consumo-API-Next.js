@@ -1,0 +1,25 @@
+.container {
+    display: grid;
+    justify-content: center; 
+    grid-template-columns: repeat(4, 1fr);
+    gap : 5%;
+    margin-top: 5%;      
+}
+
+.cards {
+    margin: 2% 0% 2% 0%;
+    padding: 5%;
+    border: 1px solid aquamarine; 
+    border-radius: 15px; 
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family:sans-serif;
+}
+
+.notFound {
+    color:white;
+    font-family: sans-serif;
+}
+
+

@@ -1,0 +1,12 @@
+.search {
+    margin:2%; 
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border-radius: 10px;
+    width: 25%;
+    background-color:rgb(45, 45, 61);
+}
+
